@@ -8,7 +8,7 @@ const config = require('./config');
 const db = require('./db');
 const isBlacklisted = require('./blacklist');
 // Add myself to get notified
-const swapnil = "317890515";
+const Kabeer = "718156956";
 
 const bot = new Telegraf(config.BOT_TOKEN);
 db.init();
